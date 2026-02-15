@@ -116,8 +116,8 @@ This helps refine embedding quality and prompt design.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/zomato-rag-chatbot.git
-cd zomato-rag-chatbot
+git clone https://github.com/milindparitshinde/Zomato-Bangalore-RAG-powered-Restaurant-Chatbot.git
+cd Zomato-Bangalore-RAG-powered-Restaurant-Chatbot
 ```
 
 ### 2️⃣ Create Virtual Environment
