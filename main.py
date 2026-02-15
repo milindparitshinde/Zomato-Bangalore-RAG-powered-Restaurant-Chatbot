@@ -11,7 +11,7 @@ from document_indexing import create_indexing
 
 
 # Load environment variables from .env file
-load_dotenv('./../.env')
+load_dotenv('./.env')
 # Claude for chat model
 if not os.getenv("ANTHROPIC_API_KEY"):
     os.environ["ANTHROPIC_API_KEY"] = getpass.getpass("Enter your Claude API token: ")
